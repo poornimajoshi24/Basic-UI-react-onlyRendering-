@@ -72,5 +72,5 @@ This project helped me understand:
 - Add hover animations
 - Convert project to JSX
 - Add Footer section
-- Deploy using GitHub Pages / Netlify
+- Deploy using GitHub Pages/Netlify
 
