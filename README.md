@@ -17,29 +17,6 @@ This project focuses on understanding **parent–child rendering**, reusable com
 
 ---
 
-##  Project Structure
-
-COMPONENT-BASED-UI/
-│
-├── index.html
-├── main.js
-├── app.js
-├── style.css
-├── hero.jpg
-├── card1.jpg
-├── card2.png
-│
-└── components/
-  ├── Navbar.js
-  ├── Hero.js
-  ├── HeroText.js
-  ├── HeroImage.js
-  ├── About.js
-  ├── Services.js
-  ├── NumberItem.js
-  └── NumbersSection.js
-
----
 
 
 ##  Core Concepts Used
