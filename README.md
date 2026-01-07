@@ -50,4 +50,5 @@ This project helped me understand:
 - Convert project to JSX
 - Add Footer section
 - Deploy using GitHub Pages/Netlify
+  
 
