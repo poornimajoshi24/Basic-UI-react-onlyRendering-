@@ -47,7 +47,7 @@ This project helped me understand:
 
 - Make UI fully responsive
 - Add hover animations
-- Convert project to JSX
+- Convert project to
 - Add Footer section
 - Deploy using GitHub Pages/Netlify
   
